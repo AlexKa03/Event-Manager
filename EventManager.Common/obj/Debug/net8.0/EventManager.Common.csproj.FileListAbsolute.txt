@@ -1,0 +1,12 @@
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\bin\Debug\net8.0\EventManager.Common.deps.json
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\bin\Debug\net8.0\EventManager.Common.dll
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\bin\Debug\net8.0\EventManager.Common.pdb
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\EventManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\EventManager.Common.AssemblyInfoInputs.cache
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\EventManager.Common.AssemblyInfo.cs
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\EventManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\EventManager.Common.sourcelink.json
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\EventManager.Common.dll
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\refint\EventManager.Common.dll
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\EventManager.Common.pdb
+C:\Users\alex_\Source\Repos\EventManager\EventManager\EventManager.Common\obj\Debug\net8.0\ref\EventManager.Common.dll
